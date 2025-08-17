@@ -73,21 +73,19 @@ By cleaning and structuring raw transactional data, the analysis generates insig
 ---
 
 ## 🚀 How to Use  
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/yourusername/coffee-shop-sales-sql.git
+
    ```
-2. Import the dataset into MySQL.  
-3. Run queries from the `.sql` script.  
-4. Check the documentation (`.docx` / `.pdf`) for explanations.  
+1. Import the dataset into MySQL.  
+2. Run queries from the `.sql` script.  
+3. Check the documentation (`.docx` / `.pdf`) for explanations.  
 
 ---
 
 ## 📌 Files in this Repo  
 - `Coffee shop Sales Analysis.sql` → All SQL queries  
-- `Coffee_Shop_Sales_FULL_Documentation.docx` → Word documentation with explanations  
-- `Coffee_Shop_Sales_FULL_Documentation.pdf` → (optional) PDF version  
-- `README.md` → This file  
+- `coffee shop csv file`   
+- `Coffee_Shop_Sales_FULL_Documentation.pdf`   
+ 
 
 ---
 
